@@ -1,0 +1,19 @@
+{
+  "name": "jquery.ad-autocomplete",
+  "version": "1.0.0",
+  "description": "Extend jQuery-ui autocomplete to support multiselect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekdev/jquery.ad-eTextLimiter.git"
+  },
+  "author": "Abhishek Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishekdev/jquery.ad-eTextLimiter/issues"
+  },
+  "homepage": "https://github.com/abhishekdev/jquery.ad-eTextLimiter#readme"
+}
